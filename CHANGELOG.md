@@ -2,8 +2,8 @@
 
 ## 04/28/24
 ### Contributors
-Rebecca Wong
-Katelyn Okano
+Rebecca Wong,
+Katelyn Okano,
 David Salzmann
 
 ### Added
