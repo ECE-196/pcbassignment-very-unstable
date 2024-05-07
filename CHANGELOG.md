@@ -1,5 +1,22 @@
 # CHANGELOG
 
+## 5/6/24
+### Contributors
+Rebecca Wong,
+Katelyn Okano,
+David Salzmann
+
+### Added
+N/A
+
+### Changed
+export.zip including fixed PCB Design (in accordance with the issue posted by Ming)
+
+### Removed
+Old PCB design ZIP files
+
+-------------
+
 ## 5/3/24
 ### Contributors
 Rebecca Wong,
